@@ -139,6 +139,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.0"
+  random_name_generator:
+    dependency: "direct main"
+    description:
+      name: random_name_generator
+      sha256: "3f5e8b93aea0b53236d200175d1d93cdf0285c9134447dbcc68826dca9cf1f93"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.0"
   sky_engine:
     dependency: transitive
     description: flutter
